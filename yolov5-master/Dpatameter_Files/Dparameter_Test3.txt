@@ -1,0 +1,21 @@
+train:
+
+epoch:99
+batch-size:16
+imgsz:640
+
+
+
+
+
+
+
+
+
+
+
+detect:
+
+imgsz:640
+conf-thres:0.25
+iou-thres:0.45  IoU的阈值

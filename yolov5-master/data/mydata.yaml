@@ -1,0 +1,15 @@
+val: yolov5_val.txt
+train: yolov5_train.txt
+
+names:
+- entrance
+- missile_silos
+- oil_depot
+- helicopter
+- military_aircraft
+- hangars_up
+- hangars_down
+- vehicle
+- ammunition_depot
+- helipad
+nc: 10
