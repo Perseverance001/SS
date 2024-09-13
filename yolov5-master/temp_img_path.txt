@@ -1,0 +1,10 @@
+../data-HQ/BIMG/0003-01-02.jpg
+../data-HQ/BIMG/0004-01-01.jpg
+../data-HQ/BIMG/0004-01-02.jpg
+../data-HQ/BIMG/0005-01-01.jpg
+../data-HQ/BIMG/0007-01-01.jpg
+../data-HQ/BIMG/0009-01-01.jpg
+../data-HQ/BIMG/0009-01-02.jpg
+../data-HQ/BIMG/0009-01-03.jpg
+../data-HQ/BIMG/0009-01-04.jpg
+../data-HQ/BIMG/0009-01-05.jpg
